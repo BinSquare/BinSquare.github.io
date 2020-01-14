@@ -14,7 +14,7 @@ const CategoryList = ({ location, pageContext, data }) => {
             activeMenu={category}
         >
             <div>
-                <SEO title={`Category: ${category}`} keywords={[category]}/>
+                <SEO title={`Category: ${category}`} keywords={[category]} />
 
                 <PostList
                     data={data.allMarkdownRemark.edges}
@@ -49,7 +49,7 @@ export const pageQuery = graphql`
                     excerpt(pruneLength: 300)
                     frontmatter {
                         title
-                        date(formatString: "YYYY-MM-DD")
+                        date(formatString: "DD-MM-YYYY")
                         category
                         tags
                         cover {

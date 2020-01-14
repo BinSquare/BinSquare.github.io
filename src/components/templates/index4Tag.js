@@ -13,7 +13,7 @@ const TagsTemplate = ({ location, pageContext, data }) => {
             title={`Tag: ${tag}`}
         >
             <div>
-                <SEO title={`Tag: ${tag}`} keywords={[tag]}/>
+                <SEO title={`Tag: ${tag}`} keywords={[tag]} />
 
                 <PostList
                     data={data.allMarkdownRemark.edges}
@@ -48,7 +48,7 @@ export const pageQuery = graphql`
                     excerpt(pruneLength: 300)
                     frontmatter {
                         title
-                        date(formatString: "YYYY-MM-DD")
+                        date(formatString: "DD-MM-YYYY")
                         category
                         tags
                         cover {

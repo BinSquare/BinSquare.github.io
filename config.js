@@ -1,37 +1,45 @@
 module.exports = {
-    url: "http://demo.nagui.me",
-    title: "Nagui Starter",
-    lang: "ko",
-    description: "Gatsby Starter Nagui",
-    defaultKeywords: [`blog`, `gatsby`, `javascript`, `react`, `kimnagui`],
+    url: "http://binsquare.com",
+    title: "BinBin's Bin",
+    lang: "en",
+    description: "BinBin's personal site",
+    defaultKeywords: [`blog`, `gatsby`, `javascript`, `react`, `binsquare`],
     defaultMetaImage: "/defaultmetaimage.png",
 
-    authorNickName: "KimNagui",
-    authorFullName: "KimGwangHyeon",
-    authorDescription: "I Love CaffeLatte",
+    authorNickName: "Binsquare",
+    authorFullName: "BinBin He",
+    authorDescription: "Loves Chocolate Mint icecream. Software + occasional Hardware Engineer. ",
     photo: "content/assets/profile-pic.png",
 
     // icon : FontAwesome
     category: [
         {
-            id: "Coffee",
+            id: "About Me",
             icon: "fa-coffee"
         },
         {
-            id: "Trip",
-            icon: "fa-plane-departure"
-        }
+            id: "Resume",
+            icon: "fa-file"
+        },
+        {
+            id: "Software",
+            icon: "fa-magic"
+        },
+        {
+            id: "Hardware",
+            icon: "fa-tools"
+        },
     ],
 
     social: {
-        email: "calrosban@gmail.com",
-        github: "https://github.com/kimnagui"
+        email: "hebinsquared@gmail.com",
+        github: "https://github.com/BinSquare"
     },
 
-    postsPerPage: 5,
-    pageListSize: 5,
+    postsPerPage: 6,
+    pageListSize: 6,
 
-    copyright: "© All rights reserved.",
-    googleAnalyticsId: "UA-143311992-2",
-    s3Bucket: "demo.nagui.me"
+    copyright: "©BinBinsBin All rights reserved.",
+    googleAnalyticsId: "UA-66636308-3",
+    s3Bucket: ""
 };
