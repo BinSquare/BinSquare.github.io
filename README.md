@@ -4,10 +4,6 @@
 
 <img src="./content/assets/demo-mobile.gif" height="325">
 
-## :computer: Demo
-
--   <http://demo.nagui.me/>
-
 ## :rocket: Quick Start
 
 ### 1. Install gatsby-cli
