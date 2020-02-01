@@ -8,7 +8,7 @@ module.exports = {
 
     authorNickName: "Binsquare",
     authorFullName: "BinBin He",
-    authorDescription: "Loves Chocolate Mint icecream. Software + occasional Hardware Engineer. ",
+    authorDescription: "Loves Chocolate. Software + occasional Hardware Engineer. ",
     photo: "content/assets/profile-pic.png",
 
     // icon : FontAwesome
@@ -29,6 +29,14 @@ module.exports = {
             id: "Hardware",
             icon: "fa-tools"
         },
+        {
+            id: "Interviews",
+            icon: "fa-microphone"
+        },
+        {
+            id: "Cinemagraphs",
+            icon: "fa-film"
+        }
     ],
 
     social: {
