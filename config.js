@@ -36,6 +36,10 @@ module.exports = {
         {
             id: "Cinemagraphs",
             icon: "fa-film"
+        },
+        {
+            id: "Volunteering",
+            icon: "fa-hands-helping"
         }
     ],
 
