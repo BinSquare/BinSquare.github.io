@@ -1,6 +1,6 @@
 ---
 title: Interview with Cloud Engineer |Part 2 - Seth Carpenter
-date: "2020-12-01"
+date: "2020-01-12"
 category: "Interviews"
 tags: 
     - interviews

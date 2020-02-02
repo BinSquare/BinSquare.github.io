@@ -1,6 +1,6 @@
 ---
 title: 3D printing to refurbish an old bike frame
-date: "2020-09-01"
+date: "2020-01-09"
 category: "Hardware"
 tags:
     - About
