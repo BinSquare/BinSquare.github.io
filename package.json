@@ -3,7 +3,7 @@
     "private": true,
     "description": "Gatsbyjs Starter",
     "version": "1.0.0",
-    "author": "Kim Gwang Hyeon <calrosbane@gmail.com>",
+    "author": "hebinsquared@gmail.com",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.19",
         "@fortawesome/free-regular-svg-icons": "^5.8.2",
@@ -53,8 +53,7 @@
         "gatsby",
         "blog",
         "react",
-        "starter",
-        "kimnagui"
+        "starter"
     ],
     "license": "MIT",
     "main": "n/a",
@@ -65,6 +64,6 @@
     "scripts": {
         "dev": "gatsby develop",
         "build": "gatsby build",
-        "deploy": "gatsby-plugin-s3 deploy"
+        "deploy": "gatsby build && gh-pages -d public -b master"
     }
 }
