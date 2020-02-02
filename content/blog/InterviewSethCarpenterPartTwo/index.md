@@ -12,4 +12,4 @@ This is part 2 of a 2 part interview, focusing on professional career.
 
 Part 2 of the interview with Professional Cloud Engineer: Seth Carpenter. He gives us a snippet into his professional life as he graduated university to becoming a professional cloud engineer.
 
-*PLACEHOLDER, COMING SOON*
+[Link](https://youtu.be/d7V8mbcK5q8)
