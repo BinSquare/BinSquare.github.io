@@ -9,7 +9,7 @@ module.exports = {
     authorNickName: "Binsquare",
     authorFullName: "BinBin He",
     authorDescription: "Loves Chocolate. Software + occasional Hardware Engineer. ",
-    photo: "content/assets/profile-pic.png",
+    photo: "content/assets/profile-pic-2021.jpg",
 
     // icon : FontAwesome
     category: [
